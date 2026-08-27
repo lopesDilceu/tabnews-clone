@@ -1,3 +1,3 @@
 # tabnews-clone
 
-Clone project of tabnew.com.br made on studying purpose
+Next.js + PostgreSQL forum API with Dockerized local infra and Jest integration tests
